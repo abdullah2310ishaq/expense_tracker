@@ -1,16 +1,13 @@
-# new_abc
+# Expense Tracker App
 
-A new Flutter project.
+A Flutter-based Expense Tracker App designed to help users manage their daily expenses, track spending patterns, and visualize financial data using charts. It supports local storage for offline access and animations for a smooth user experience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- Frontend: Flutter (Dart)
+- Local Database: Hive & Isar (for offline data storage)
+- State Management: Provider
+- Data Visualization: FL Chart (for expense tracking graphs)
+- UI & Styling: Google Fonts, Lottie Animations, Animated Text Kit
+- User Experience: Page Transition, Slidable Cards, Flip Card Effects
+- Notifications & Toasts: Flutter Toast, Flushbar
+- App Icons & Theming: Flutter Launcher Icons, Rename Package
